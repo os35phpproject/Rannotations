@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnnotationApp</string>
+    <string name="cannotbeempty">can\'t be empty</string>
+    <string name="cannotbelessthan">can\'t be less than</string>
+    <string name="character">character</string>
+    <string name="cannotbelongerthan">can\'t be longer than</string>
+    <string name="shouldbedigits">should only contain digits</string>
+    <string name="notvalidemail">isn\'t a valid email address</string>
+</resources>
